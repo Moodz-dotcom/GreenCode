@@ -34,4 +34,9 @@ GreenCode/
 ├── pom.xml              # Maven build file
 └── docker-compose.yml   # Docker orchestration
 
+## Getting Started
 
+To get started with this project:
+1. Clone the repository
+2. Install dependencies
+3. Run the application
